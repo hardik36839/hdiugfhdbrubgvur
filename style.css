@@ -1,0 +1,40 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: blueviolet;
+}
+.header_div 
+{
+    background-color: cadetblue;
+    color: brown;
+    
+}
+.header_div p
+{
+    font-family: sans-serif;
+    color: azure;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+
+}
+.main_div button
+{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+
+}
+.footer
+{
+    position: fixed;
+    color:aqua;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+background-color: blanchedalmond;
+line-height: 3;
+text-align:center;
+text-shadow: 5px  5px 5px aquamarine;
+}
